@@ -1,1 +1,2 @@
 # ML-Projects
+1. Lung segmentation from chest X-ray images is a critical step in computer-aided diagnosis and treatment planning for various pulmonary diseases. The U-Net++ architecture, an advanced variant of the popular U-Net model, has shown promising results in medical image segmentation tasks due to its ability to capture fine-grained details and multiscale features. This project focuses on applying U-Net++ for the accurate segmentation of lung regions in chest X-ray images, enhancing the visibility of lung structures and facilitating better clinical interpretation.
